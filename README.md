@@ -3,6 +3,7 @@ Background
 There are data supposedly contains the employees’ information from 1980s and 1991. All the data are stored in six csv files.
 
 The goals of the challenge are:
+
 Through data engineering and data analysis:
 -design tables to hold data in the CSV files, 
 -import the CSV files into a SQL database
@@ -21,6 +22,7 @@ Through data engineering and data analysis:
 -utilizing the analysis, to validate if the data set is legit or fake
 
 Conclusion:
+
 The data is fake, as from the histogram chart, the chart shows the salary range and the salary spread among all the employees. Taking the information from the histogram chart, and compare to the bar chart, where the average salaries for all job titles are quite similar, there is not much difference comparing senior staff salaries to the junior level salaries.
 
 
